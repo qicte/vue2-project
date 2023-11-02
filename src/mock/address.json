@@ -1,0 +1,35 @@
+[
+    {
+        "consignee": "陈淇",
+        "fullAddress": "广东省广州市花都区培正大道53号",
+        "id": 1,
+        "isDefault": "0",
+        "phoneNum": "15915915915",
+        "provinceId": 1,
+        "regionId": 1,
+        "userAddress": "广东省广州市花都区培正大道53号",
+        "userId": 1
+    },
+    {
+        "consignee": "陈er",
+        "fullAddress": "广东省广州市天河区",
+        "id": 2,
+        "isDefault": "1",
+        "phoneNum": "12222222222",
+        "provinceId": 2,
+        "regionId": 2,
+        "userAddress": "广东省广州市天河区",
+        "userId": 2
+    },
+    {
+        "consignee": "陈san",
+        "fullAddress": "深圳市罗湖区",
+        "id": 3,
+        "isDefault": "0",
+        "phoneNum": "13333333333",
+        "provinceId": 3,
+        "regionId": 3,
+        "userAddress": "深圳市罗湖区",
+        "userId": 3
+    }
+]
