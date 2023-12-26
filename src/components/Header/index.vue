@@ -5,7 +5,7 @@
         <div class="top">
             <div class="container">
                 <div class="loginList">
-                    <p>尚品汇欢迎您！</p>
+                    <p>无名百货欢迎您！</p>
                     <p v-if="!userName">
                         <span>请</span>
                         <!-- 声明式导航 务必要有to属性 -->
@@ -20,11 +20,7 @@
                 <div class="typeList">
                     <router-link to="/center/myorder">我的订单</router-link>
                     <router-link to="/shopcart">我的购物车</router-link>
-                    <a href="###">我的尚品汇</a>
-                    <a href="###">尚品汇会员</a>
-                    <a href="###">企业采购</a>
-                    <a href="###">关注尚品汇</a>
-                    <a href="###">合作招商</a>
+                    <a href="###">无名百货会员</a>
                     <a href="###">商家后台</a>
                 </div>
             </div>
